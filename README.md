@@ -177,13 +177,10 @@ I'm highly interested in Full Stack Development & Data,Business Analysis. I am v
 
 [![@keshihan's Holopin board](https://holopin.me/keshihan)](https://www.holopin.io/@keshihan)
 <!-- [![Keshihan's GitHub stats](https://github-readme-stats.vercel.app/api?username=keshihan)](https://github.com/anuraghazra/github-readme-stats)
-![Keshihan's GitHub stats](https://github-readme-stats.vercel.app/api?username=keshihan&hide=contribs,prs)
-![Keshihan's GitHub stats](https://github-readme-stats.vercel.app/api?username=keshihan&count_private=true)
-![Keshihan's GitHub stats](https://github-readme-stats.vercel.app/api?username=keshihan&show_icons=true)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=keshihan&repo=github-readme-stats?style=centerme)](https://github.com/keshihan/github-readme-stats)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keshihan)](https://github.com/keshihan/github-readme-stats) -->
 
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=keshihan)](https://git.io/streak-stats) -->
 
 
