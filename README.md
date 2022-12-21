@@ -142,6 +142,7 @@ I'm highly interested in Full Stack Development & Data,Business Analysis. I am v
 
 <!-- ![github contribution grid snake animation](https://raw.githubusercontent.com/keshihan/keshihan/output/github-contribution-grid-snake.svg) -->
 
+## Certifications
 
 ### Cisco Certified
 
