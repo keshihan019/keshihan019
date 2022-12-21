@@ -4,7 +4,7 @@
 
 🎓 I am Keshihan Ilamuruganathan who have been pursuing BSc.(Hons) in Information Systems at [Sabaragamuwa University of Sri Lanka](https://www.sab.ac.lk/). <br> 
 Currently working as a Digital Marketing Intern at [Commercial Technologies Plus](https://www.commercialtp.com/) <br>
-I'm highly interested in Full Stack Development & Data Analysis. I am very enthusiastic to learn more in Python, JavaScript & SQL
+I'm highly interested in Full Stack Development & Data,Business Analysis. I am very enthusiastic to learn more in Python, JavaScript & SQL
 
 ## 🔗 Explore more about Keshi 🚀
 
