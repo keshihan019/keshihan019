@@ -3,7 +3,7 @@
 ### 🚀 About Me
 
 🎓 I am Keshihan Ilamuruganathan who have been pursuing BSc.(Hons) in Information Systems at [Sabaragamuwa University of Sri Lanka](https://www.sab.ac.lk/). <br> 
-I have gained hands-on experience as a Digital Marketing Intern at [Commercial Technologies Plus](https://www.commercialtp.com/) and as a Development Intern at [International Youth Alliance for Peace] (https://iyap.global/). <br>
+I have gained hands-on experience as a Digital Marketing Intern at [Commercial Technologies Plus](https://www.commercialtp.com/) and as a Development Intern at [International Youth Alliance for Peace](https://iyap.global/). <br>
 I'm highly interested in Full Stack Development & Data,Business Analysis. I am very enthusiastic to learn more in Python, JavaScript & SQL
 
 ## 🔗 Explore more about Keshi 🚀
