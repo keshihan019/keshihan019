@@ -160,7 +160,7 @@ I'm highly interested in Full Stack Development & Data,Business Analysis. I am v
 
 <!-- ## 📝 Top Blog Posts -->
 
-## 📈 Stats
+## 📈 Keshihan's Stats
 
 <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=keshihan019&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
@@ -174,21 +174,9 @@ I'm highly interested in Full Stack Development & Data,Business Analysis. I am v
 ![Keshihan's GitHub stats](https://github-readme-stats.vercel.app/api?username=keshihan019&show_icons=true&theme=radical) 
 ![Keshihan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=keshihan019&bg_color=141321&color=FE428E&line=4c8ed9&point=A9FEF7&area=true&hide_border=true)
 
-
-## 📈 Keshi's Stats
-
-<!-- [![Keshihan's GitHub stats](https://github-readme-stats.vercel.app/api?username=keshihan019)](https://github.com/anuraghazra/github-readme-stats)
-![Keshihan's GitHub stats](https://github-readme-stats.vercel.app/api?username=keshihan019&hide=contribs,prs)
-![Keshihan's GitHub stats](https://github-readme-stats.vercel.app/api?username=keshihan019&count_private=true)
-![Keshihan's GitHub stats](https://github-readme-stats.vercel.app/api?username=keshihan019&show_icons=true)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=keshihan019&repo=github-readme-stats?style=centerme)](https://github.com/keshihan019/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keshihan019)](https://github.com/keshihan019/github-readme-stats) -->
-
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=keshihan019)](https://git.io/streak-stats) -->
 ## 💻 HacktoberFest
 
-[![@keshihan019's Holopin board](https://holopin.me/@keshihan)](https://holopin.io/@keshihan)
+[![@abishethvarman's Holopin board](https://holopin.me/keshihan)](https://holopin.io/@keshihan)
 
 <!-- <h2>:hammer_and_wrench: Languages and Tools :</h2>
 <div style="display: flex; align-items: flex-start; align: center">
