@@ -142,7 +142,7 @@ I'm highly interested in Full Stack Development & Data,Business Analysis. I am v
 
 <!-- ![github contribution grid snake animation](https://raw.githubusercontent.com/keshihan/keshihan/output/github-contribution-grid-snake.svg) -->
 
-## Certifications
+## Keshihan's Certifications
 
 ### Cisco Certified
 
@@ -174,7 +174,7 @@ I'm highly interested in Full Stack Development & Data,Business Analysis. I am v
 ![Keshihan's GitHub stats](https://github-readme-stats.vercel.app/api?username=keshihan019&show_icons=true&theme=radical) 
 ![Keshihan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=keshihan019&bg_color=141321&color=FE428E&line=4c8ed9&point=A9FEF7&area=true&hide_border=true)
 
-## 💻 HacktoberFest
+## 💻 Keshihan's Holopin Board
 
 [![@Keshihan's Holopin board](https://holopin.me/keshihan)](https://holopin.io/@keshihan)
 
