@@ -162,17 +162,17 @@ I'm highly interested in Full Stack Development & Data,Business Analysis. I am v
 
 ## 📈 Keshi's Stats
 
-<div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=keshihan&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
-    <br />
-<!--     <img src="https://github-readme-stats.vercel.app/api?username=keshihan&show_icons=true&hide_border=true" alt="keshihan's GitHub Stats"> -->
-    <br />
-    <img src="https://komarev.com/ghpvc/?username=keshihan">
-</div>
+<!-- [![Keshihan's GitHub stats](https://github-readme-stats.vercel.app/api?username=keshihan019)](https://github.com/anuraghazra/github-readme-stats)
+![Keshihan's GitHub stats](https://github-readme-stats.vercel.app/api?username=keshihan019&hide=contribs,prs)
+![Keshihan's GitHub stats](https://github-readme-stats.vercel.app/api?username=keshihan019&count_private=true)
+![Keshihan's GitHub stats](https://github-readme-stats.vercel.app/api?username=keshihan019&show_icons=true)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=keshihan&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-[![keshihan's GitHub stats](https://github-readme-stats.vercel.app/api?username=keshihan&show_icons=true&theme=radical)
-[![@keshihan's Holopin board](https://holopin.me/keshihan)](https://www.holopin.io/@keshihan)
-<!-- ![Keshihan's GitHub stats](https://github-readme-stats.vercel.app/api?username=keshihan)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keshihan)](https://github.com/keshihan/github-readme-stats) -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=keshihan019&repo=github-readme-stats?style=centerme)](https://github.com/keshihan019/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keshihan019)](https://github.com/keshihan019/github-readme-stats) -->
+
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=keshihan019)](https://git.io/streak-stats) -->
+## 💻 HacktoberFest
+
+[![@keshihan019's Holopin board](https://holopin.me/@keshihan)](https://holopin.io/@keshihan)
+
 
